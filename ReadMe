@@ -1,4 +1,5 @@
-DOWNLOADING THE RASPBERRY PI OS
+
+## DOWNLOADING THE RASPBERRY PI OS
 •	Go to https://www.raspberrypi.org/downloads/raspbian/
 •	Click “Download ZIP” for the Raspbian Stretch with Desktop
 •	Unzip the downloaded file and copy the contents of this folder as is into the newly formatted SD card
@@ -6,7 +7,7 @@ DOWNLOADING THE RASPBERRY PI OS
 •	Insert the SD card into the raspberry pi and turn the power ON. It should start the installation and follow the steps. 
 •	Choose to download the “Raspberry Pi OS Debian Desktop version if it asks during installation.
 
-Downloading the Witty Pi software on raspberry pi
+## Downloading the Witty Pi software on raspberry pi
 Once the raspberry pi OS has been successfully installed, connect the raspberry pi with Wi-Fi and then follow the below steps for downloading Witty Pi software.
 •	Type: wget http://www.uugear.com/repo/WittyPi2/installWittyPi.sh
 •	If the download was successful, type: sudo sh installWittyPi.sh
@@ -20,7 +21,7 @@ Setting up the witty pi
 •	This should start a wittyPi interface, if it doesn’t then redo the installation steps.
 •	For the steps for configuring the raspberry pi startup time and shutdown time,  http://www.uugear.com/doc/WittyPiMini_UserManual.pdf use this manual.
 
-Troubleshooting / Checking raspberry pi functioning
+## Troubleshooting / Checking raspberry pi functioning
 Start the remote session through SSH using the IP address of the raspberry pi. We used putty software for this, but many other alternatives are available. Once you are able to access the pi, use the below codes for different tasks that you might require to perform.
 
 Check the name of raspberry pi
