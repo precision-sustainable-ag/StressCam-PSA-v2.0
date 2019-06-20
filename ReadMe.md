@@ -1,4 +1,4 @@
-![camera_installation](camera_installation.jpg=50x)
+![camera_installation](camera_installation.jpg)
 
 ## DOWNLOADING THE RASPBERRY PI OS
 •	Go to https://www.raspberrypi.org/downloads/raspbian/
