@@ -1,0 +1,12 @@
+•	Type: wget http://www.uugear.com/repo/WittyPi2/installWittyPi.sh
+•	If the download was successful, type: sudo sh installWittyPi.sh
+•	If it prompts something regarding fake-hwclock package, press ‘y’. Since we want to remove this package.
+•	Then it will ask about Qt 5 GUI installation, for which press ‘n’ since we can use terminal to perform the setup.
+•	If everything is properly installed, then it will say that you need to reboot the pi.
+•	Type: reboot, to reboot the raspberry pi.
+
+•	Type: cd wittyPi
+•	Now type: sudo ./wittyPi.sh
+•	This should start a wittyPi interface, if it doesn’t then redo the installation steps.
+•	For the steps for configuring the raspberry pi startup time and shutdown time,  http://www.uugear.com/doc/WittyPiMini_UserManual.pdf use this manual.
+
