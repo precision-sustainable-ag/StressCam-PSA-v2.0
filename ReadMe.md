@@ -58,11 +58,11 @@ We currently have an image base of about 40,000 images of which we have annotate
 If you are interesting about to work with us please contact us. Here our work teams and roles.
 
 •	Paula Ramos-Giraldo, PhD - Leader - NCSU Postdoc, Computer Vision and Machine Learning Scientist. pramosg@ncsu.edu
-•	Chris Reberg-Horton, PhD - Leader PSA project - NCSU Full Professor. 
-•	Steven Mirsky, PhD - Leader PSA Project - USDA Scientist.
-•	Anna Locke, PhD - Advisor - USDA Scientist.
-•	Edgar Lobaton, PhD - Advisor - NCSU Associate Professor.
-•	Esleyther Henriquez, Ag - Field team - NCSU Graduate Student.
+•	Chris Reberg-Horton, PhD - Leader PSA project - NCSU Full Professor. screberg@ncsu.edu
+•	Steven Mirsky, PhD - Leader PSA Project - USDA Scientist. screberg@ncsu.edu
+•	Anna Locke, PhD - Advisor - USDA Scientist. anna_locke@ncsu.edu 
+•	Edgar Lobaton, PhD - Advisor - NCSU Associate Professor. edgar.lobaton@ncsu.edu 
+•	Esleyther Henriquez, Ag - Field team - NCSU Graduate Student. elhenriq@ncsu.edu
 •	Design ECE NCSU Course. 
 •	Neural Networks ECE NCSU Course.
 •	CALS NCSU Department.
