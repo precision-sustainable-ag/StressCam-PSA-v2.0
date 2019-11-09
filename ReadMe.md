@@ -16,7 +16,7 @@ The StressCam is installed in the field to take pictures of the soybean and corn
 
 
 
-##ABOUT THIS REPOSITORY
+# ABOUT THIS REPOSITORY
 
 You can find in this repository all instructions for setting up the camera and some reports about our actual results. The structure repository is as follow, some folders could be empty because we are still building this source.
 •	Assembly and Settting Up Guide
@@ -30,7 +30,7 @@ You can find in this repository all instructions for setting up the camera and s
 •	Specs Materials of Hardware
 •	Troubleshoots
 
-##ACTUAL RESULTS
+# ACTUAL RESULTS
 
 We installed 10 cameras in a corn field during the spring of 2019 and 20 cameras in a soybean field during the summer of the same year. The first experience in corn, allowed us to learn about possible critical problems in the operation of the camera, such as the power system and the real time clock. Later, with the experience in soybean, we realized that the system can be sensitive to the internal temperature of the box containing the hardware. From these experiences we have defined a work plan to improve the operation of the camera and connect it directly to the farm. We list below the problems encountered in the field.
 •	Power down.
@@ -47,13 +47,13 @@ We currently have an image base of about 40,000 images of which we have annotate
 ![actual3](stress_cam_pic_05.png)
 
 
-##NEXT STEPS
+# NEXT STEPS
 
 ![next](stress_cam_pic_06.png)
 
 
 
-#WORK TEAM
+# WORK TEAM
 
 If you are interesting about to work with us please contact us. Here our work teams and roles.
 
