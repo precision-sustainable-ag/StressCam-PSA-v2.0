@@ -1,6 +1,6 @@
 The StressCam is a project with this specific goal: To find a On-Farm solution to detect Water stress in real-time and relate to other measurements on the field. Keywords: open source, computer vision, machine learning, edge computing.
 <h2>
-![intro](Field Images/stress_cam_pic_01.png)
+![intro](https://github.com/precision-sustainable-ag/StressCam-PSA-v2.0/blob/8958c94bfd56b7d2551d67cde3b41a2aeae38afe/Field%20Images/stress_cam_pic_01.png)
 </h2>
 The StressCam is a low cost camera that can be installed in the field in a several ways. The camera consists of a raspberry pi, a PiCamera, a power management system and real time clock, a regulator with battery and solar panel. The idea of this project is to obtain a low cost camera (~U$100) that can be installed in the field and with which we can manage the crop, specifically in the management of water stress.
 
